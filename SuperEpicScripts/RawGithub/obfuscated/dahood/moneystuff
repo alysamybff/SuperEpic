@@ -1,0 +1,16 @@
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local emojisys = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefxtjuh/SuperEpic/main/SuperEpicScripts/RawGithub/Database/CustomEmojis"))()
+
+local Window = Library.CreateLib("Dahood autofarm", colors)
+local player = game.Players.LocalPlayer
+
+
+local HomeTab = Window:NewTab("Home")
+local HomeSection = HomeTab:NewSection("Hello")
+HomeSection:NewLabel("Hello! "..player.Name.." welcome to my script!!")
+HomeSection:NewLabel("Your userID is "..player.userId.."!")
+
+local MainTab = Window:NewTab("Main")
+local MainSection = MainTab:NewSection("Dropping")
