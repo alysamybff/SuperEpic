@@ -4,5 +4,12 @@ loadstring(game:HttpGet(""))()
 --Soda drinking simulator!
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefxtjuh/SuperEpic/main/SuperEpicScripts/RawGithub/obfuscated/SodaSim"))()
 
-AntiAFK
+
+
+
+--Da hood things
+--AntiAFK
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefxtjuh/SuperEpic/main/SuperEpicScripts/RawGithub/obfuscated/AntiAfk.lua"))()
+
+--LowerGFX
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefxtjuh/SuperEpic/main/SuperEpicScripts/RawGithub/obfuscated/AntiLag.lua"))()
