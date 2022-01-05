@@ -1,7 +1,5 @@
 local allowedUsers = {
-	--your usernames here!
-	--names are CASE SENSITIVE!
-	["lekkerbek312"] = false,
+	["lekkerbek312"] = true,
 	["BxnXHecate"] = true,
 }
  
