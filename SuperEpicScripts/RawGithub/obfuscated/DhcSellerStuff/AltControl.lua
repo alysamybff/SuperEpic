@@ -1,5 +1,5 @@
-local admsg = "" --your ad here
-local mods = {} --player id
+--[[local admsg = "" --your ad here
+local mods = {} --player id]]
 
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
